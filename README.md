@@ -1,5 +1,8 @@
 # R4
-The Argonaut experience dictates robust implementation guides that require real implementation and testing.  For this project, the Argonaut Data Query DSTU2 IG will be update to FHIR Version R4 with the goal of having consistency among implementers to meet the [USCDI requirements](https://www.healthit.gov/isa/us-core-data-interoperability-uscdi). Includes adoption and testing of US Core R4 resources; adding Encounters and Clinical Notes and consideration of  adding “write” capability for a subset of the resources.
+
+Udpate Argonaut Data Query DSTU2 IG to FHIR Version R4.
+
+Description: The Argonaut experience dictates robust implementation guides that require real implementation and testing.  For this project, the Argonaut Data Query DSTU2 IG will be update to FHIR Version R4 with the goal of having consistency among implementers to meet the [USCDI requirements](https://www.healthit.gov/isa/us-core-data-interoperability-uscdi). Includes adoption and testing of US Core R4 resources; adding Encounters and Clinical Notes and consideration of  adding “write” capability for a subset of the resources.
 
 ### Tentative Argonaut R4 Timeline
 

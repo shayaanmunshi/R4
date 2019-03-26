@@ -26,7 +26,7 @@ Description: The Argonaut experience dictates robust implementation guides that 
    
  ## Collaboration tools
  
-- Slides on Google Slides ([folder](https://drive.google.com/drive/folders/1lr2OHmhdbu0pj5zKmDA_tdQdhiTzUJeV)
+- Slides on Google Slides ([folder](https://drive.google.com/drive/folders/1lr2OHmhdbu0pj5zKmDA_tdQdhiTzUJeV))
 - Offline discussions on [Zulip](https://chat.fhir.org/#narrow/stream/argonaut)
 - Development of the guidance and FHIR artifacts will be here on GitHub
 - Issues will be posted and managed on [GitHub Issues](https://github.com/argonautproject/R4/issues)
